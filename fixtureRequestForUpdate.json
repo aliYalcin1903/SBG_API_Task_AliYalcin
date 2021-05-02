@@ -1,0 +1,33 @@
+{
+  "fixtureId": "ID_TO_BE_REPLACED",
+  "fixtureStatus": {
+    "displayed": false,
+    "suspended": true
+  },
+  "footballFullState": {
+    "homeTeam": "Besiktas",
+    "awayTeam": "Fenerbahce",
+    "finished": false,
+    "gameTimeInSeconds": 2656,
+    "goals": [],
+    "period": "SECOND_HALF",
+    "possibles": [],
+    "corners": [],
+    "redCards": [],
+    "yellowCards": [],
+    "startDateTime": "2021-04-29T10:49:38.655Z",
+    "started": true,
+    "teams": [
+      {
+        "association": "HOME",
+        "name": "Besiktas",
+        "teamId": "HOME"
+      },
+      {
+        "association": "AWAY",
+        "name": "Fenerbahce",
+        "teamId": "AWAY"
+      }
+    ]
+  }
+}
